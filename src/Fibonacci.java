@@ -34,6 +34,7 @@ public class Fibonacci {
         System.out.println(f.power(2,6));
         System.out.println(f.powerOpt(2,6));
         System.out.println("test");
+        System.out.println("test2");
     }
 
 }
