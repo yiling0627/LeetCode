@@ -26,7 +26,6 @@ public class StackMin {
         return stack2.pop();
     }
 
-
     public static void main(String[] args) {
         StackMin stackMin = new StackMin();
         stackMin.pushElement(4);
